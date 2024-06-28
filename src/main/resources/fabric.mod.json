@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "registry-helper-lib",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "Registry Helper Lib",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
