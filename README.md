@@ -32,7 +32,7 @@ Then add the version variable in gradle.properties. Replace the version below by
     registry_helper_version=1.0.0+1.21
 ```
 
-## How do you use it?
+## How to use it?
 Create an instance of the RegistryHelper class. This instance will allow you to register for a registry type.
 ```java
     public class ModItems {
@@ -44,5 +44,5 @@ Create an instance of the RegistryHelper class. This instance will allow you to 
         }
     }
 ```
-</div>
+
 
