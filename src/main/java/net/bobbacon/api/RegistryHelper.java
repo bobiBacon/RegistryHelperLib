@@ -27,6 +27,6 @@ public class RegistryHelper<T> {
 
 
     public T register(String name,T element){
-        return Registry.register(REGISTRY, Identifier.of(MOD_ID,name),element);
+        return Registry.register(REGISTRY, new Identifier(MOD_ID,name),element);
     }
 }
