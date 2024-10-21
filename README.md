@@ -29,7 +29,7 @@ Then add the mod implementation, still in build.gradle:
 Then add the version variable in gradle.properties. Replace the version below by the version of the lib you want:
 ```ini
 
-    registry_helper_version=1.0.0+1.21
+    registry_helper_version= <version>
 ```
 
 ## How to use it?
